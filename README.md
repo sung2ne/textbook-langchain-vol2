@@ -1,6 +1,6 @@
 # 소설처럼 읽는 LangChain과 생성형 AI 2권 - 실습 코드
 
-[위키독스 교재](https://wikidocs.net/book/18964)의 실습 코드 저장소입니다.
+[iBetter Books 교재](https://text.ibetter.kr/langchain-vol2)의 실습 코드 저장소입니다.
 
 임베딩, 벡터 데이터베이스, RAG(검색 증강 생성)를 활용한 생성형 AI 심화 과정으로, 문서 기반 QA 시스템부터 프로덕션 배포까지 단계별로 학습합니다.
 
@@ -158,4 +158,4 @@ uvicorn main:app --reload
 
 ## 라이선스
 
-이 저장소는 [소설처럼 읽는 LangChain과 생성형 AI 2권](https://wikidocs.net/book/18964) 교재의 실습 코드입니다.
+이 저장소는 [소설처럼 읽는 LangChain과 생성형 AI 2권](https://text.ibetter.kr/langchain-vol2) 교재의 실습 코드입니다.
